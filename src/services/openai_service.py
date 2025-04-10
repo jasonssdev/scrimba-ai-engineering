@@ -1,4 +1,4 @@
-from config import API_KEY_OPENAI
+from .config import API_KEY_OPENAI
 from openai import OpenAI
 
 

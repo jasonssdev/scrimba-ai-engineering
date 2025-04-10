@@ -1,7 +1,7 @@
 
 import requests
 from datetime import datetime, timezone
-from config import API_KEY_POLYGON
+from .config import API_KEY_POLYGON
 
 
 BASE_URL = "https://api.polygon.io"

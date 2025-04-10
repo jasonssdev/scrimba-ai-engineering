@@ -77,6 +77,7 @@ dependencies:
       - pyyaml==6.0.2
       - readme-renderer==44.0
       - redis==5.2.1
+      - reflex==0.7.6
       - reflex-hosting-cli==0.1.38
       - requests-toolbelt==1.0.0
       - rfc3986==2.0.0

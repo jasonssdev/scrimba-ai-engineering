@@ -1,0 +1,6 @@
+app:
+  name: "GuruAI"
+  title: "Stock Guru App"
+  favicon: "assets/favicon.ico"  # Asegúrate de tenerlo en la ruta indicada o ajusta el path
+  base: "/"
+  output_dir: "build"
